@@ -1,4 +1,4 @@
-name: Dual Dash Camera apk
+name: Build Android APK
 
 on:
   push:
